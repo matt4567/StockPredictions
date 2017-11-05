@@ -16,7 +16,7 @@ Simply change the ticker symbol in the stock_name variable in the predictions
 iPython notebook to train on a stock of your choice.
 
 For e.g. "GOOG" --- Alphabet stock <br />
-"AAPL"  --- Apple__ <br />
-"RDSB"  --- Shell__ <br />
+"AAPL"  --- Apple <br />
+"RDSB"  --- Shell <br />
 
 (Only tested on Alphabet stock)
